@@ -20,7 +20,7 @@ import android.webkit.WebViewClient;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-    private static final String MESSENGER_URL = "http://89.125.121.18";
+    private static final String MESSENGER_URL = "https://burmlda.ru";
     private static final int REQUEST_MEDIA = 704;
 
     private WebView webView;
